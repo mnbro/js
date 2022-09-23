@@ -2,7 +2,9 @@
     {
         "remedies": "remedy1",
         "emotions": "emotion1"
-        "remedies": "uite",
-        "emotions": "alta"
+    },
+    {
+        "remedies": "alta",
+        "emotions": "uite"
     }
 ]
